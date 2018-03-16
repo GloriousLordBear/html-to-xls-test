@@ -1,0 +1,26 @@
+{
+  "name": "html-to-xls-test",
+  "version": "1.0.0",
+  "description": "Test to find the perfect library to export html tables into xlsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GloriousLordBear/html-to-xls-test.git"
+  },
+  "keywords": [
+    "test",
+    "html",
+    "xlsx",
+    "html-to-xlsx",
+    "jsreport"
+  ],
+  "author": "Arthur L Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GloriousLordBear/html-to-xls-test/issues"
+  },
+  "homepage": "https://github.com/GloriousLordBear/html-to-xls-test#readme"
+}
